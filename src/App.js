@@ -8,8 +8,8 @@ import EventByMui from "./pages/EventByMui";
 import VideoEditor from "./pages/VideoEditor/VideoEditor2";
 
 function App() {
-  // return <EventByBootstrap />;
-  return <VideoEditor />;
+  return <EventByBootstrap />;
+  // return <VideoEditor />;
   // return <EventByAntd />;
   // return <EventByMui />;
   // return <EventNotice />;
